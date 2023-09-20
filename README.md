@@ -2,7 +2,7 @@
 <html lang="en">
    <head>
      <meta charset="UTF-8">
-    Hennadii First Page
+    <title>Hennadii First Page</title>
    </head>
    <body></body>
 </html>
